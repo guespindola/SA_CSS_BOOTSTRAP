@@ -1,0 +1,38 @@
+.bg-gradient{
+    background: linear-gradient(70deg, #313a41, #4290cf) !important; 
+}
+.bg-footer {
+    background: linear-gradient(70deg, #4290cf, #313a41) !important;
+}
+.bg-footer img {
+    height: 40px;
+    width: 50px;
+    padding-right: 10px;
+}
+.ima-wa img {
+    height: 50px;
+    width: 50px;
+}
+
+.just-fix {
+    justify-content: start!important; 
+}
+
+.report-line {
+    white-space: nowrap;
+}
+
+.color-acord {
+    background: linear-gradient(50deg, #313a41, #4290cf);
+}
+
+
+.btn-color {
+    background-color: #365366;
+    color: rgb(212, 212, 212);
+}
+.btn-color:hover {
+    background-color: #4290cf;
+    color: #313a41;
+}
+
